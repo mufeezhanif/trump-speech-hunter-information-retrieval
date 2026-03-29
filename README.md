@@ -29,7 +29,8 @@ indexes/             # saved JSON index files
 data/                # speeches + stopword list + query list
 ```
 ## UI
-<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/152df663-e1e3-423e-88c7-e6e1622a1f86" />
+<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/62ee3c66-97cc-4b13-a8d5-fa215cbb9227" />
+
 
 ## Running
 
